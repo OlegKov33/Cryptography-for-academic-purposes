@@ -1,0 +1,5 @@
+In here you can find text that you can read, notice that
+the word SAFECARE has appeared once and in all capital letters. 
+When you will unencrypt the "Broken" file, look if that word has appear
+at the end if this message or not. THIS IS THE LAST PARAGRAPH
+IF THIS FILE BEFORE ANY ENCRYPTION.
